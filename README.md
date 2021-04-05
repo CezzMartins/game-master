@@ -5,7 +5,7 @@
 
 ### Função:
 ```
-Buscar nome informações de jogos.
+Buscar informações de jogos.
 ```
 <img src="./src/assets/master.gif">
 
