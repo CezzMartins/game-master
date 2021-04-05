@@ -3,8 +3,6 @@ require('dotenv').config()
 import axios from 'axios'
 import { reactive } from 'vue'
 
-
-
 const api_key = process.env.API_KEY_GAMES
 const base_url = 'https://api.rawg.io/api/games?'
 
