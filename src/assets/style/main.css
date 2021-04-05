@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Roboto:wght@300;400;700&display=swap');
+
+:root{
+    --white: #EBEBEB;
+    --purple: #8F32D8;
+    --blue: #32BAD8;
+    --blue-dark: #20347B;
+    --black: #101216;
+    --invisible: transparent;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--black);
+    /* font-family: 'Righteous', cursive; */
+    font-family: 'Roboto', sans-serif;
+    /* position: relative; */
+}
