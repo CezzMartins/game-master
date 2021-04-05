@@ -1,4 +1,15 @@
-# game-master
+# Game Master
+<br/>
+
+<h1>Estudo feito para requisição de API<h1>
+
+### Função:
+```
+Buscar nome informações de jogos.
+```
+<img src="./src/assets/master.gif">
+
+<br/>
 
 ## Project setup
 ```
