@@ -1,4 +1,4 @@
-# Game Master
+# Game Master 🎮🎮
 <br/>
 
 <h1>Estudo feito para requisição de API<h1>
