@@ -19,7 +19,7 @@ Buscar nome informações de jogos.
     Depois basta substituir o valor da variável api_key que esta no arquivo index na pasta store. 
  </p>
 
-<div style="display:flex; text-align: center; align-items: center; justify-content: center; gap:1.25rem; width: 100%">
+<div>
     <img src="./src/assets/store_folder.png">
     <img src="./src/assets/variavel.png">
 </div>
