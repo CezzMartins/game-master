@@ -13,7 +13,7 @@ Buscar nome informações de jogos.
 
 ### IMPORTANTE! :
 ```
-Não deixei disponivel a api key desse projeto, então caso queira testar em seu computador, entre no site https://rawg.io/apidocs e pegue sua propria key.  Depois basta colocar sua api key na variavel api_key que esta no arquivo index na pasta store. 
+Não deixei disponivel a api key desse projeto, então caso queira testar em seu computador, entre no site https://rawg.io/apidocs e pegue sua propria key.  Depois basta substituir o valor da variável api_key que esta no arquivo index na pasta store. 
 ```
 <div style="display:flex; align-items: center; justify-content: space-evenly;">
 <img src="./src/assets/store_folder.png">
